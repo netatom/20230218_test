@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "text": "json-server",
+      "done": true
+    },
+    {
+      "id": 2,
+      "text": "json-server2",
+      "done": false
+    },
+    {
+      "id": 3,
+      "text": "json-server3",
+      "done": false
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todos": [
+    {
+      "id": 1,
+      "text": "json-server",
+      "done": true
+    },
+    {
+      "id": 2,
+      "text": "json-server2",
+      "done": false
+    },
+    {
+      "id": 3,
+      "text": "json-server3",
+      "done": false
+    }
+  ]
+}
