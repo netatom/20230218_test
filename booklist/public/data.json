@@ -1,0 +1,30 @@
+[
+    {
+        "pub_id": 1,
+        "pub_title": "시빌워",
+        "pub_year": 2015,
+        "pub_frontimage": "media/civil.jpg",
+        "pub_isbn": "9791158395599"
+    },
+    {
+        "pub_id": 2,
+        "pub_title": "리엑트",
+        "pub_year": 2025,
+        "pub_frontimage": "media/react.jpg",
+        "pub_isbn": "9791158395593"
+    },
+    {
+        "pub_id": 3,
+        "pub_title": "뷰",
+        "pub_year": 2024,
+        "pub_frontimage": "media/vue.jpg",
+        "pub_isbn": "9791158395511"
+    },
+    {
+        "pub_id": 4,
+        "pub_title": "원더우먼",
+        "pub_year": 2021,
+        "pub_frontimage": "media/wonder.jpg",
+        "pub_isbn": "9791158395123"
+    }
+]

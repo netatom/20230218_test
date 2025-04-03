@@ -1,0 +1,58 @@
+[
+    {
+        "pub_id": 1,
+        "pub_title": "시빌워",
+        "pub_year": 2015,
+        "pub_frontimage": "media/civil.jpg",
+        "pub_story": "story1",
+        "pub_isbn": "1111"
+    },
+    {
+        "pub_id": 2,
+        "pub_title": "시빌워2",
+        "pub_year": 2025,
+        "pub_frontimage": "media/civil.jpg",
+        "pub_story": "story2",
+        "pub_isbn": "1112"
+    },
+    {
+        "pub_id": 3,
+        "pub_title": "시빌워3",
+        "pub_year": 2025,
+        "pub_frontimage": "media/civil.jpg",
+        "pub_story": "story3",
+        "pub_isbn": "1113"
+    },
+    {
+        "pub_id": 4,
+        "pub_title": "시빌워4",
+        "pub_year": 2025,
+        "pub_frontimage": "media/civil.jpg",
+        "pub_story": "story4",
+        "pub_isbn": "1114"
+    },
+    {
+        "pub_id": 5,
+        "pub_title": "원더우먼",
+        "pub_year": 2024,
+        "pub_frontimage": "media/wonder.jpg",
+        "pub_story": "story1",
+        "pub_isbn": "2221"
+    },
+    {
+        "pub_id": 6,
+        "pub_title": "원더우먼2",
+        "pub_year": 2024,
+        "pub_frontimage": "media/wonder.jpg",
+        "pub_story": "story2",
+        "pub_isbn": "2222"
+    },
+    {
+        "pub_id": 7,
+        "pub_title": "원더우먼3",
+        "pub_year": 2021,
+        "pub_frontimage": "media/wonder.jpg",
+        "pub_story": "story4",
+        "pub_isbn": "2223"
+    }
+]
