@@ -1,12 +1,11 @@
-# React + Vite
+# Vue 3 + Vite
+# 1. Install node.js Check node and npm installation
+# 2. Run node index.js after installing npm in board-node folder
+# 3. After installing npm in the board-react folder, run npm run dev and check vite in console window
+# 4. You can find it in the browser at localhost:5173 url.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Vue 3 + Vite
+# 1. node.js 설치 node와 npm 설치 확인 
+# 2. board-node 폴더안에서 npm install 후 node index.js 실행행
+# 3. board-react 폴더안에서 npm install 후 npm run dev 실행 후 console창에 vite 실행 확인
+# 4. 브라우저에서 localhost:5173 url로 확인가능합니다.
