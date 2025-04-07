@@ -1,9 +1,11 @@
 import styled from "styled-components";
 
 function TodoHeader() {
+  const currentYear = new Date().getFullYear();
+
   return (
     <Container>
-      <DateText>2023년</DateText>
+      <DateText>{currentYear} Year</DateText>
       <CountText>To do List This year!</CountText>
     </Container>
   );
