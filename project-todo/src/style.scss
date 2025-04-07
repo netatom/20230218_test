@@ -1,0 +1,16 @@
+$main_color: blue;
+
+header {
+  width: calc(100px + 100px);
+  height: 200px;
+
+  .gnbList {
+    display: flex;
+    li {
+      color: $main_color;
+      &:hover {
+        background-color: black;
+      }
+    }
+  }
+}
